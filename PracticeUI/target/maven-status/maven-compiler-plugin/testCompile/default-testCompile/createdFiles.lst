@@ -1,0 +1,4 @@
+com\AutomationPractice\Runner\TestRunner.class
+com\AutomationPractice\steps\StepsHomePage.class
+com\AutomationPractice\Page\BasePage.class
+com\AutomationPractice\Page\HomePage.class
